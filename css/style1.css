@@ -1,0 +1,34 @@
+      
+      .tdecor {
+        text-decoration: none;
+      }
+      .button {
+        background: black;
+        color: white; 
+        font-family:Courier;
+        text-align:center;
+        font-size: 25px;
+        border-radius: 8px;
+        border: 2px solid white;
+        transition-duration: 0.5s;
+      }
+        .button1:hover {
+            color: red;
+            border: 2px solid red;
+        }
+        .button2:hover {
+            color: yellow;
+            border: 2px solid yellow;
+        }
+        .button3:hover {
+            color: blue;
+            border: 2px solid blue;
+        }
+        .button4:hover {
+            color: purple;
+            border: 2px solid purple;
+        }
+        .button5:hover {
+            color: lime;
+            border: 2px solid lime;
+        }
